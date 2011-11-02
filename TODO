@@ -272,3 +272,5 @@ configurator tasks
   + split theme menu by first letter, if many themes to show
 
   + textual search for options/commands
+
+  +pullrequest
